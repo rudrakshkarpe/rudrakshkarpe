@@ -5,11 +5,11 @@
 ### AI Enthusiast | Passionate Programmer
 
 
-### 🛠 Skills
-C, C++, Pyhton....
+## 🛠 Skills
+- C, C++, Pyhton....
 
   
-### 😃 About me 
+## 😃 About me 
  - 🍳Find me on [LinkedIn](https://awesomeopensource.com/project/elangosundar/awesome-README-templates)
  - 📚Exploring Machine Learning 
  - 🗣 Knows English, Hindi, Learning Spanish and programming languages as
