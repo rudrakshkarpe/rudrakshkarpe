@@ -16,6 +16,7 @@
 
   
 ### 
+![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=JayantGoel001&theme=react-dark&hide_border=true&area=true)
 ## Github Stats
 
 <img src="https://github-readme-stats.vercel.app/api?username=rudrakshkarpe&&show_icons=true&count_private=true&theme=github_dark">|<img src="https://github-readme-streak-stats.herokuapp.com/?user=rudrakshkarpe&theme=blueberry_duo"/>
