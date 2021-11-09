@@ -1,18 +1,19 @@
 
-# Hi, I'm Rudraksh Karpe
+# Hi, I'm Rudraksh 👋🏻
 
   
-### AI Enthusiast | Passionate Programmer
+### AI Enthusiast 💻 | Passionate Programmer 👨🏻‍💻 | 
 
 
 ## 🛠 Skills
-- C, C++, Pyhton....
+- C, C++, Python, HTML, CSS, Javascript, React.js
 
   
 ## 😃 About me 
- - 🍳Find me on [LinkedIn](https://awesomeopensource.com/project/elangosundar/awesome-README-templates)
- - 📚Exploring Machine Learning 
- - 🗣 Knows English, Hindi, Learning Spanish and programming languages a
+ -🍳 Find me on [LinkedIn](https://awesomeopensource.com/project/elangosundar/awesome-README-templates)
+ -📚 Learning and Implementating Data Structure and Algorithms
+ -� Exploring Machine Learning and Deep Learning, Tenserflow and Computer Vision
+ -✉️ Reach me at [Gmail](rudraksh.karpe@gmail.com)
 
   
 
