@@ -11,8 +11,11 @@
   
 ## 😃 About me 
  -🍳 Find me on [LinkedIn](https://awesomeopensource.com/project/elangosundar/awesome-README-templates)
+ 
  -📚 Learning and Implementating Data Structure and Algorithms
+ 
  -� Exploring Machine Learning and Deep Learning, Tenserflow and Computer Vision
+ 
  -✉️ Reach me at [Gmail](rudraksh.karpe@gmail.com)
 
   
