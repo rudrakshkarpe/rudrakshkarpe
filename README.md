@@ -1,8 +1,8 @@
 
-# Hi, I'm Rudraksh 👋🏻
+# Hi, I'm Rudraksh Karpe 👋🏻
 
   
-### AI Enthusiast 💻 | Passionate Programmer 👨🏻‍💻 | 
+### AI Enthusiast 💻 | Passionate Programmer 👨🏻‍💻 
 
 
 ## 🛠 Skills
