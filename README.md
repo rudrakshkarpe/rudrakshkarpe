@@ -2,7 +2,7 @@
 # Hi, I'm Rudraksh Karpe 👋🏻
 
   
-### AI Enthusiast 💻 | Passionate Programmer 👨🏻‍💻 
+## AI Enthusiast 💻 | Passionate Programmer 👨🏻‍💻 
 
 
 ## 🛠 Skills
@@ -10,13 +10,13 @@
 
   
 ## 😃 About me 
- -🍳 Find me on [LinkedIn](https://awesomeopensource.com/project/elangosundar/awesome-README-templates)
+ - 🍳 Find me on [LinkedIn](https://awesomeopensource.com/project/elangosundar/awesome-README-templates)
  
- -📚 Learning and Implementating Data Structure and Algorithms
+ - 📚 Learning and Implementating Data Structure and Algorithms
  
- -� Exploring Machine Learning and Deep Learning, Tenserflow and Computer Vision
+ - � Exploring Machine Learning and Deep Learning, Tenserflow and Computer Vision
  
- -✉️ Reach me at [Gmail](rudraksh.karpe@gmail.com)
+ - ✉️ Reach me at [Gmail](rudraksh.karpe@gmail.com)
 
   
 
@@ -26,7 +26,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=rudrakshkarpe&&show_icons=true&count_private=true&theme=github_dark">|<img src="https://github-readme-streak-stats.herokuapp.com/?user=rudrakshkarpe&theme=blueberry_duo"/>
 
 
-### Designed by 
+## Designed by 
 
 - [@rudrakshkarpe](https://www.github.com/rudrakshkarpe)
 
