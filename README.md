@@ -6,14 +6,14 @@
 
 
 ## 🛠 Skills
-- Learning through experiments!
+
 ### C, C++, Python, Java, Flutter, HTML5, CSS, Javascript...
 
   
-## Me on Digital Universe🌐
+## Me on digital Universe🌐
  - 🤝 Connect me on [LinkedIn](https://www.linkedin.com/in/rudraksh-karpe-78b45b1a7)
 
- - Exploring Deep Learning, **Tenserflow** and **Computer Vision**
+ - Exploring **Deep Learning**, **Tenserflow** and **Computer Vision**
  
  - I'd like to get feedbacks @[Gmail](rudraksh.karpe@gmail.com)
 
