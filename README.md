@@ -1,24 +1,21 @@
 
-# Hi👋, I'm Rudraksh! Welcome to my github-profile ✨  🏻
+# Hi👋, I'm Rudraksh! Welcome to my github-profile ✨
 <img src="https://i.ibb.co/RBpfTss/Linked-In-Banner.png">
   
-## AI Enthusiast 💻 | Passionate Programmer 👨🏻‍💻 
+### Machine Learning Enthusisast 🎰 | Data Structure and Algorithms 📚| Android Development 📴| MERN stack web-development🏻‍💻 
 
 
 ## 🛠 Skills
-- C, C++, Python, HTML, CSS, Javascript, React.js
+- Learning through experiments!
+### C, C++, Python, Java, Flutter, HTML5, CSS, Javascript...
 
   
-## 😃 About me 
- - 🍳 Find me on [LinkedIn](https://awesomeopensource.com/project/elangosundar/awesome-README-templates)
- 
- - 📚 Learning and Implementating Data Structure and Algorithms
- 
- - � Exploring Machine Learning and Deep Learning, Tenserflow and Computer Vision
- 
- - ✉️ Reach me at [Gmail](rudraksh.karpe@gmail.com)
+## Me on Digital Universe🌐
+ - 🤝 Connect me on [LinkedIn](https://www.linkedin.com/in/rudraksh-karpe-78b45b1a7)
 
-  
+ - Exploring Deep Learning, **Tenserflow** and **Computer Vision**
+ 
+ - I'd like to get feedbacks @[Gmail](rudraksh.karpe@gmail.com)
 
 
 ## Github Stats
