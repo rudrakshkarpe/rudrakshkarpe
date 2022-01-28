@@ -1,5 +1,5 @@
 
-# Hi, I'm Rudraksh Karpe 👋🏻
+# Hi👋, I'm Rudraksh! Welcome to my github-profile ✨  🏻
 <img src="https://i.ibb.co/RBpfTss/Linked-In-Banner.png">
   
 ## AI Enthusiast 💻 | Passionate Programmer 👨🏻‍💻 
