@@ -15,7 +15,7 @@
 
  - Exploring **Deep Learning**, **Tenserflow** and **Computer Vision**
  
- - I'd like to get feedbacks @[Gmail](rudraksh.karpe@gmail.com)
+ - I'd like to get feedbacks @ **rudraksh.karpe@gmail.com**
 
 
 ## Github Stats
