@@ -1,6 +1,6 @@
 
 # Hi, I'm Rudraksh Karpe 👋🏻
-
+<img src="https://i.ibb.co/RBpfTss/Linked-In-Banner.png">
   
 ## AI Enthusiast 💻 | Passionate Programmer 👨🏻‍💻 
 
