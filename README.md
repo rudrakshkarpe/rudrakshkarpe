@@ -6,7 +6,7 @@
 ### Machine Learning Enthusisast 🎰 | Data Structure and Algorithms 📚| Android Development 📴| MERN stack web-development💻 
 
 
-## 🛠 Skills
+### 🛠 Skills
 
 ### C, C++, Python, Java, Flutter, HTML5, CSS, Javascript...
 
