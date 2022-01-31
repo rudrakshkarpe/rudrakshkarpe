@@ -6,12 +6,12 @@
 ### Machine Learning Enthusisast 🎰 | Data Structure and Algorithms 📚| Android Development 📴| MERN stack web-development💻 
 
 
-### 🛠 Skills
+## 🛠 Skills
 
 ### C, C++, Python, Java, Flutter, HTML5, CSS, Javascript
 
   
-### 💻 About Me 
+## 💻 About Me 
  - 🤝 Connect me on [LinkedIn](https://www.linkedin.com/in/rudraksh-karpe-78b45b1a7)
 
 - Exploring **Deep Learning**, **Tenserflow** and **Computer Vision**
