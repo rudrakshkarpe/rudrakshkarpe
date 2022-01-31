@@ -1,7 +1,7 @@
  # Hi👋, I'm Rudraksh! 
  
  ##  Welcome to my github-profile ✨
-<img src="https://i.ibb.co/4VLwjq5/4.png">
+<img src="https://i.ibb.co/sq0gvMm/4.png">
   
 ### Machine Learning Enthusisast 🎰 | Data Structure and Algorithms 📚| Android Development 📴| MERN stack web-development💻 
 
