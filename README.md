@@ -8,7 +8,7 @@
 
 ## 🛠 Skills
 
-### C, C++, Python, Java, Flutter, HTML5, CSS, Javascript
+### C, C++, Python, Java, HTML5, CSS, Javascript
 
   
 ## 💻 About Me 
