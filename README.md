@@ -1,7 +1,8 @@
  # Hi👋, I'm Rudraksh! 
- 
+ <p align="left"> <img src="https://komarev.com/ghpvc/?username=ThinamXx" alt="ThinamXx" /> </p>
  ##  Welcome to my github-profile ✨
 <img src="https://i.imgur.com/hLwUjJU.png">
+
   
 ### Machine Learning Enthusisast 🎰 | Data Structure and Algorithms 📚| Android Development 📴| MERN stack web-development💻 
 
