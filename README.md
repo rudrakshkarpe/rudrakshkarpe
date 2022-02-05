@@ -1,5 +1,5 @@
  # Hi👋, I'm Rudraksh! 
- <p align="left"> <img src="https://komarev.com/ghpvc/?username=ThinamXx" alt="ThinamXx" /> </p>
+ <p align="left"> <img src="https://komarev.com/ghpvc/?username=ThinamXx" alt="rudrakshkarpe" /> </p>
  ##  Welcome to my github-profile ✨
 <img src="https://i.imgur.com/hLwUjJU.png">
 
