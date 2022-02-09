@@ -5,7 +5,7 @@
 <img src="https://i.imgur.com/hLwUjJU.png">
 
   
-### Machine Learning Enthusisast 🎰 | Data Structure and Algorithms 📚| Android Development 📴| MERN stack web-development💻 
+### Machine Learning Enthusiast 🎰 | Data Structure and Algorithms 📚| Android Development 📴| MERN stack web-development💻 
 
 ## 🛠 Skills
 
