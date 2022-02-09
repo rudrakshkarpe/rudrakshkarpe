@@ -1,29 +1,32 @@
-
-# Hi, I'm Rudraksh Karpe
+ # Hi👋, I'm Rudraksh! 
+ <p align="left"> <img src="https://komarev.com/ghpvc/?username=rudrakshkarpe" alt="rudrakshkarpe" /> </p>
+ 
+ ## Welcome to my github-profile ✨
+<img src="https://i.imgur.com/hLwUjJU.png">
 
   
-### AI Enthusiast | Passionate Programmer
-
+### Machine Learning Enthusiast 🎰 | Data Structure and Algorithms 📚| Android Development 📴| MERN stack web-development💻 
 
 ## 🛠 Skills
-- C, C++, Pyhton....
+
+### C, C++, Python, Java, HTML5, CSS, Javascript
 
   
-## 😃 About me 
- - 🍳Find me on [LinkedIn](https://awesomeopensource.com/project/elangosundar/awesome-README-templates)
- - 📚Exploring Machine Learning 
- - 🗣 Knows English, Hindi, Learning Spanish and programming languages as
+## 💻 About Me 
+ - 🤝 Connect me on [LinkedIn](https://www.linkedin.com/in/rudraksh-karpe-78b45b1a7)
 
-  
-### 
-
+- Exploring **Deep Learning**, **Tenserflow** and **Computer Vision**
+ 
+- I'd like to get feedbacks @ **rudraksh.karpe@gmail.com**
 
 
+## Github Stats
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rudrakshkarpe&show_icons=true&theme=radical)
+| <img src="https://github-readme-stats.vercel.app/api?username=rudrakshkarpe&&show_icons=true&count_private=true&theme=github_dark">|<img src="https://github-readme-streak-stats.herokuapp.com/?user=rudrakshkarpe&theme=blueberry_duo"/> |
+| ------------| ------------- |
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rudrakshkarpe&layout=compact)](https://github.com/rudrakshkarpe/github-readme-stats)
-### Authors
+
+## Designed by -
 
 - [@rudrakshkarpe](https://www.github.com/rudrakshkarpe)
 
