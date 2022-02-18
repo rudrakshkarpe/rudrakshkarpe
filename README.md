@@ -21,11 +21,15 @@
 [https://github-readme-stats.vercel.app/api?username=rudrakshkarpe&&show_icons=true&count_private=true&theme=github_dark](https://github-readme-stats.vercel.app/api?username=rudrakshkarpe&&show_icons=true&count_private=true&theme=github_dark)
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 [https://github-readme-streak-stats.herokuapp.com/?user=rudrakshkarpe&theme=blueberry_duo](https://github-readme-streak-stats.herokuapp.com/?user=rudrakshkarpe&theme=blueberry_duo)
 
 [https://activity-graph.herokuapp.com/graph?username=rudrakshkarpe&theme=react-dark](https://activity-graph.herokuapp.com/graph?username=rudrakshkarpe&theme=react-dark)
 =======
 >>>>>>> parent of c02421b (updated radme.md)
+=======
+[![Rudraksh's github activity graph](https://activitygraph.herokuapp.com/graphusername=rudrakshkarpe&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=true)](https://github.com/rudrakshkarpe/github-readme-activity-graph)
+>>>>>>> parent of dfff457 (Fixed the contribution graph)
 
 ## Designed by -
 
