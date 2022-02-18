@@ -13,8 +13,8 @@
 ## 💻 About Me
 
 - 🤝 Connect me on [LinkedIn](https://www.linkedin.com/in/rudraksh-karpe-78b45b1a7)
-- Exploring **Deep Learning**, **Tenserflow** and **Computer Vision**
-- I'd like to get feedbacks @ **[rudraksh.karpe@gmail.com](mailto:rudraksh.karpe@gmail.com)**
+- Exploring *Deep Learning, **Tenserflow* and *Computer Vision*
+- I'd like to get feedbacks @ *[rudraksh.karpe@gmail.com](mailto:rudraksh.karpe@gmail.com)*
 
 ## Github Stats
 
