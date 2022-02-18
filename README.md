@@ -20,9 +20,12 @@
 
 [https://github-readme-stats.vercel.app/api?username=rudrakshkarpe&&show_icons=true&count_private=true&theme=github_dark](https://github-readme-stats.vercel.app/api?username=rudrakshkarpe&&show_icons=true&count_private=true&theme=github_dark)
 
+<<<<<<< HEAD
 [https://github-readme-streak-stats.herokuapp.com/?user=rudrakshkarpe&theme=blueberry_duo](https://github-readme-streak-stats.herokuapp.com/?user=rudrakshkarpe&theme=blueberry_duo)
 
 [https://activity-graph.herokuapp.com/graph?username=rudrakshkarpe&theme=react-dark](https://activity-graph.herokuapp.com/graph?username=rudrakshkarpe&theme=react-dark)
+=======
+>>>>>>> parent of c02421b (updated radme.md)
 
 ## Designed by -
 
