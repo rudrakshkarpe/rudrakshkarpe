@@ -1,11 +1,9 @@
  # Hi👋, I'm Rudraksh! 
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=rudrakshkarpe" alt="rudrakshkarpe" /> </p>
  
- ## Welcome to my github-profile ✨
 <img src="https://i.imgur.com/hLwUjJU.png">
 
-  
-### Machine Learning Enthusiast 🎰 | Data Structure and Algorithms 📚| Android Development 📴| MERN stack web-development💻 
+## Machine Learning Enthusiast 🎰 | Data Structure and Algorithms 📚| Android Development 📴| MERN stack web-development💻 
 
 ## 🛠 Skills
 
