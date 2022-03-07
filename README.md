@@ -3,7 +3,7 @@
  
 <img src="https://i.imgur.com/hLwUjJU.png">
 
-## AI Enthusiast | Passionate Programmer 
+<p align="center"> ## AI Enthusiast | Passionate Programmer </p> 
 
 ## Skills ⚒️
 ### C, C++, Python, Java, HTML5, CSS, Javascript
