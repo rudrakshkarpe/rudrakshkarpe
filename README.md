@@ -1,4 +1,4 @@
- # Hi👋, I'm Rudraksh! 
+ # Hello👋, This is Rudraksh! 
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=rudrakshkarpe" alt="rudrakshkarpe" /> </p>
  
 <img src="https://i.imgur.com/hLwUjJU.png">
