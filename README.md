@@ -10,9 +10,9 @@
 
   
 ## 💻 About Me 
- - I'd like to connect with you on [LinkedIn](https://www.linkedin.com/in/rudraksh-karpe-78b45b1a7)
+### *I'd like to connect with you on [LinkedIn](https://www.linkedin.com/in/rudraksh-karpe-78b45b1a7)*
  
-- Feedbacks @**rudraksh.karpe@gmail.com**
+### *Feedbacks @**rudraksh.karpe@gmail.com***
 
 
 ## Github Stats
