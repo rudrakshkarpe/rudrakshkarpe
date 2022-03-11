@@ -6,7 +6,7 @@
 ## AI Enthusiast | Passionate Programmer
 
 ## Skills ⚒️
-### C, C++, Python, Java, HTML5, CSS, Javascript
+### *C, C++, Python, Java, HTML5, CSS, Javascript*
 
   
 ## 💻 About Me 
@@ -22,7 +22,7 @@
 
 [![Rudraksh's github activity graph](https://activity-graph.herokuapp.com/graph?username=rudrakshkarpe&theme=react-dark	)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-## Designed by -
+###  *Designed by -*
 
 ### *[@rudrakshkarpe](https://www.github.com/rudrakshkarpe)* 
 
