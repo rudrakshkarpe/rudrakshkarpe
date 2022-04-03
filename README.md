@@ -3,7 +3,7 @@
  
 <img src="https://i.imgur.com/hLwUjJU.png">
 
-## **AI Enthusiast | Passionate Programmer**
+<!-- ## **AI Enthusiast | Passionate Programmer**
 
 ## **Skills** ⚒️
 ### *C, C++, Python, Java, HTML5, CSS, Javascript*
@@ -12,7 +12,7 @@
 ##  **About Me** 🧑‍💻
 ### *I'd like to connect with you on [LinkedIn](https://www.linkedin.com/in/rudraksh-karpe-78b45b1a7)*
  
-### *Feedbacks @**rudraksh.karpe@gmail.com***
+### *Feedbacks @**rudraksh.karpe@gmail.com*** -->
 
 
 ## Github Stats
