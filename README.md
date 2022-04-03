@@ -1,4 +1,5 @@
  # Hello👋, This is Rudraksh! 
+ ## **AI Enthusiast | Passionate Programmer**
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=rudrakshkarpe" alt="rudrakshkarpe" /> </p>
  
 <img src="https://i.imgur.com/hLwUjJU.png">
