@@ -6,7 +6,7 @@
 ## **AI Enthusiast | Passionate Programmer**
 
 ## **Skills** ⚒️
-### *C, C++, Python, Java, HTML5, CSS, Javascript*
+### *C, C++, Python, Java, HTML5, CSS, Javascript and R*
 
   
 ##  **About Me** 🧑‍💻
