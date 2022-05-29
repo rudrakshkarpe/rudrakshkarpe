@@ -9,7 +9,7 @@
 
 ![Metrics](https://metrics.lecoq.io/rudrakshkarpe?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&base.indepth=false&isocalendar.duration=half-year&config.timezone=Asia%2FCalcutta)
 
-![Metrics_new](https://metrics.lecoq.io/rudrakshkarpe?template=classic&base.header=0&base.community=0&tweets=1&base.indepth=false&tweets.attachments=false&tweets.limit=2&tweets.user=.user.twitter&config.timezone=Asia%2FCalcutta) 
+<!-- ![Metrics_new](https://metrics.lecoq.io/rudrakshkarpe?template=classic&base.header=0&base.community=0&tweets=1&base.indepth=false&tweets.attachments=false&tweets.limit=2&tweets.user=.user.twitter&config.timezone=Asia%2FCalcutta)  -->
 
 
 
