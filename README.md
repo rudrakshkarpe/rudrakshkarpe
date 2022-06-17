@@ -1,4 +1,4 @@
- # Hello there :Wave:, This is Rudraksh! 
+ # Hello there👋, This is Rudraksh! 
  ## **Machine Learning Enthusiast | Passionate Programmer | **
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=rudrakshkarpe" alt="rudrakshkarpe" /> </p>
  
