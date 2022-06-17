@@ -1,4 +1,4 @@
- # Hello <img src = "https://raw.githubusercontent.com/vitasha10/vitasha10/main/assets/Hand%20Wave.gif">, This is Rudraksh! 
+ # Hello there :Wave:, This is Rudraksh! 
  ## **Machine Learning Enthusiast | Passionate Programmer | **
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=rudrakshkarpe" alt="rudrakshkarpe" /> </p>
  
