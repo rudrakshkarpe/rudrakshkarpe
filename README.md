@@ -1,20 +1,12 @@
- # Hello👋, This is Rudraksh! 
- ## **AI Enthusiast | Passionate Programmer**
+ # Hello <img src = "https://raw.githubusercontent.com/vitasha10/vitasha10/main/assets/Hand%20Wave.gif">, This is Rudraksh! 
+ ## **Machine Learning Enthusiast | Passionate Programmer | **
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=rudrakshkarpe" alt="rudrakshkarpe" /> </p>
  
 <img src="https://i.imgur.com/hLwUjJU.png">
 
-=
+<!-- ![Metrics](https://metrics.lecoq.io/rudrakshkarpe?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&base.indepth=false&isocalendar.duration=half-year&config.timezone=Asia%2FCalcutta)
 
-
-<p>
-![Metrics](https://metrics.lecoq.io/rudrakshkarpe?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&base.indepth=false&isocalendar.duration=half-year&config.timezone=Asia%2FCalcutta)
-</p>
-<!-- ![Metrics_new](https://metrics.lecoq.io/rudrakshkarpe?template=classic&base.header=0&base.community=0&tweets=1&base.indepth=false&tweets.attachments=false&tweets.limit=2&tweets.user=.user.twitter&config.timezone=Asia%2FCalcutta)  -->
-
-
-
-<!-- ## **AI Enthusiast | Passionate Programmer**
+## **AI Enthusiast | Passionate Programmer**
 
 ## **Skills** ⚒️
 ### *C, C++, Python, Java, HTML5, CSS, Javascript*
