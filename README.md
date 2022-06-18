@@ -1,5 +1,5 @@
  # Hello there👋, This is Rudraksh! 
- ## **Machine Learning Enthusiast | Passionate Programmer | **
+ ## Machine Learning Enthusiast | Passionate Programmer 
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=rudrakshkarpe" alt="rudrakshkarpe" /> </p>
  
 <img src="https://i.imgur.com/hLwUjJU.png">
