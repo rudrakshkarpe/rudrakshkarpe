@@ -1,7 +1,10 @@
- # Hello👋, This is Rudraksh! 
+ # Hello there👋, This is Rudraksh! 
+ ## Machine Learning Enthusiast | Passionate Programmer 
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=rudrakshkarpe" alt="rudrakshkarpe" /> </p>
  
 <img src="https://i.imgur.com/hLwUjJU.png">
+
+<!-- ![Metrics](https://metrics.lecoq.io/rudrakshkarpe?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&base.indepth=false&isocalendar.duration=half-year&config.timezone=Asia%2FCalcutta)
 
 ## **AI Enthusiast | Passionate Programmer**
 
@@ -12,7 +15,7 @@
 ##  **About Me** 🧑‍💻
 ### *I'd like to connect with you on [LinkedIn](https://www.linkedin.com/in/rudraksh-karpe-78b45b1a7)*
  
-### *Feedbacks @**rudraksh.karpe@gmail.com***
+### *Feedbacks @**rudraksh.karpe@gmail.com*** -->
 
 
 ## Github Stats
