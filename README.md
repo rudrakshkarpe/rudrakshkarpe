@@ -18,8 +18,8 @@
 ---
 ****📜 Certificates:****
 
-- [Using Python to Interact with the Operating Sysytem](https://www.**Coursera**.org/account/accomplishments/certificate/EMYBHETMEHVG) | **Coursera** | Google [March 2022]
-- [Using Python to Interact with the Operating Sysytem](https://www.**Coursera**.org/account/accomplishments/certificate/EMYBHETMEHVG) | **Coursera** | Google [March 2022]
+- [Using Python to Interact with the Operating Sysytem](https://www.**Coursera**.org/account/accomplishments/certificate/EMYBHETMEHVG) | **Coursera** | **Google** [March 2022]
+- [Using Python to Interact with the Operating Sysytem](https://www.**Coursera**.org/account/accomplishments/certificate/EMYBHETMEHVG) | **Coursera** | **Google** [March 2022]
 - [Object-Oriented Data Structures in C++](https://www.**Coursera**.org/account/accomplishments/certificate/N3PAJYYSWQJP) | **Coursera** | **Google** [March 2022]
 - [Introduction to Git and GitHub](https://www.**Coursera**.org/account/accomplishments/certificate/DNVTZ2K7UWZJ) | **Coursera** | **Google** [Feb2022]
 
