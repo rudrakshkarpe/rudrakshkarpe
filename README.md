@@ -18,7 +18,7 @@
 
 👔 **LinkedIn:** [https://www.linkedin.com/in/rudrakshkarpe](https://www.linkedin.com/in/rudrakshkarpe)
 
-🕊️**Twitter:** https://[t](http://twitter.com/rudrakshkarpe)witter.com/rudrakshkarpe
+🕊️**Twitter:** https://twitter.com/rudrakshkarpe
 
 ---
 ### Github Stats
