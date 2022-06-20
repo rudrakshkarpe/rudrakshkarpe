@@ -19,7 +19,7 @@
 
 
 ---
-### **📜 Certificates:****
+### **📜 Certificates:**
 
 - [Using Python to Interact with the Operating Sysytem](https://www.**Coursera**.org/account/accomplishments/certificate/EMYBHETMEHVG) | **Coursera** | **Google** [March 2022]
 - [Using Python to Interact with the Operating Sysytem](https://www.**Coursera**.org/account/accomplishments/certificate/EMYBHETMEHVG) | **Coursera** | **Google** [March 2022]
