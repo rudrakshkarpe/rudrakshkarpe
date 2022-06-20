@@ -7,19 +7,21 @@
 
 ---
 ### Passionate Programmer 🌈🧑‍💻 | Machine Learning Enthusiast 🦿 🧠 | Android Development 📲 | IEEE GHRCEM Co-Chair 🧑‍💼 🔍 | Learning Spanish 🇪🇸 🌍
+
 ---
+
 ### 📞 Contact:
 
+📧 **Email:** rudraksh.karpe@gmail.com | rudraksh.karpe.cs@ghrcem.raisoni.net
 
-### 📧 Email: rudraksh.karpe@gmail.com | rudraksh.karpe.cs@ghrcem.raisoni.net
+🌐 **Portfolio**: rudrakshkarpe.me
 
-### 🌐 Portfolio: rudrakshkarpe.me
+👔 **LinkedIn:** [https://www.linkedin.com/in/rudrakshkarpe](https://www.linkedin.com/in/rudrakshkarpe)
 
-### 👔 LinkedIn: [https://www.linkedin.com/in/rudrakshkarpe](https://www.linkedin.com/in/rudrakshkarpe)
+🕊️**Twitter:** https://[t](http://twitter.com/rudrakshkarpe)witter.com/rudrakshkarpe
 
-### 🕊️Twitter: https://[t](http://twitter.com/rudrakshkarpe)witter.com/rudrakshkarpe
-
-## Github Stats
+---
+### Github Stats
 
 | <img src="https://github-readme-stats.vercel.app/api?username=rudrakshkarpe&&show_icons=true&count_private=true&theme=github_dark">|<img src="https://github-readme-streak-stats.herokuapp.com/?user=rudrakshkarpe&theme=blueberry_duo"/> |
 | ------------| ------------- |
