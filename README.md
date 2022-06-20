@@ -15,7 +15,7 @@
 
 👔 **LinkedIn:** [https://www.linkedin.com/in/rudrakshkarpe](https://www.linkedin.com/in/rudrakshkarpe)
 
-🕊️**Twitter:** https://twitter.com/rudrakshkarpe
+🕊️ **Twitter:** https://twitter.com/rudrakshkarpe
 
 
 ---
