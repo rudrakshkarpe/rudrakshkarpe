@@ -14,7 +14,7 @@
 
 📧 **Email:** rudraksh.karpe@gmail.com | rudraksh.karpe.cs@ghrcem.raisoni.net
 
-🌐 **Portfolio**: rudrakshkarpe.me
+🌐 **Portfolio**: https://www.rudrakshkarpe.me/
 
 👔 **LinkedIn:** [https://www.linkedin.com/in/rudrakshkarpe](https://www.linkedin.com/in/rudrakshkarpe)
 
