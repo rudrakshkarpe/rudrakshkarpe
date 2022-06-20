@@ -19,7 +19,7 @@
 
 ---
 
-https://leetcode-stats-api.herokuapp.com/rudrakshkarpe
+http://all-cp-platforms-api.herokuapp.com/api/leetcode.com/rudrakshkarpe
 
 ### **📜 Certificates:**
 
