@@ -21,6 +21,7 @@
 ---
 ### **📜 Certificates:**
 
+- [What is Data Science?](https://www.coursera.org/account/accomplishments/certificate/34WZNG63XDUA) | **Coursera** | **IBM** [March 2022]
 - [Using Python to Interact with the Operating Sysytem](https://www.**Coursera**.org/account/accomplishments/certificate/EMYBHETMEHVG) | **Coursera** | **Google** [March 2022]
 - [Using Python to Interact with the Operating Sysytem](https://www.**Coursera**.org/account/accomplishments/certificate/EMYBHETMEHVG) | **Coursera** | **Google** [March 2022]
 - [Introduction to Git and GitHub](https://www.**Coursera**.org/account/accomplishments/certificate/DNVTZ2K7UWZJ) | **Coursera** | **Google** [Feb2022]
