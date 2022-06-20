@@ -1,26 +1,25 @@
 
+ <p align="left"> <img src="https://komarev.com/ghpvc/?username=rudrakshkarpe" alt="rudrakshkarpe" /> </p> 
 
- <p align="left"> <img src="https://komarev.com/ghpvc/?username=rudrakshkarpe" alt="rudrakshkarpe" /> </p>
- 
 <!-- <img src="https://i.imgur.com/hLwUjJU.png"> -->
 <img src="https://media-exp1.licdn.com/dms/image/C4D16AQGBnDChHc4Axg/profile-displaybackgroundimage-shrink_200_800/0/1655618270950?e=1661385600&v=beta&t=El9kvcmyRbGR5OXoH86ICTfjIMqXqOHTtL8uyX6tB5k" class = "center">
 
 ---
 ### Passionate Programmer 🌈🧑‍💻 | Machine Learning Enthusiast 🦿 🧠 | Android Development 📲 | IEEE GHRCEM Co-Chair 🧑‍💼 🔍 | Learning Spanish 🌍
-
 ---
-
 ### 📞 Contact:
 
 📧 **Email:** rudraksh.karpe@gmail.com | rudraksh.karpe.cs@ghrcem.raisoni.net
-
 🌐 **Portfolio**: https://www.rudrakshkarpe.me/
-
 👔 **LinkedIn:** [https://www.linkedin.com/in/rudrakshkarpe](https://www.linkedin.com/in/rudrakshkarpe)
-
 🕊️**Twitter:** https://twitter.com/rudrakshkarpe
 
+
 ---
+****📜 Certificates:****
+
+- [Using Python to Interact with the Operating Sysytem](https://www.coursera.org/account/accomplishments/certificate/EMYBHETMEHVG) | Coursera | Google [March 2022]
+
 ### Github Stats
 
 | <img src="https://github-readme-stats.vercel.app/api?username=rudrakshkarpe&&show_icons=true&count_private=true&theme=github_dark">|<img src="https://github-readme-streak-stats.herokuapp.com/?user=rudrakshkarpe&theme=blueberry_duo"/> |
