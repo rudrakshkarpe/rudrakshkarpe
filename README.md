@@ -2,7 +2,7 @@
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=rudrakshkarpe" alt="rudrakshkarpe" /> </p> 
 
 <!-- <img src="https://i.imgur.com/hLwUjJU.png"> -->
-<img src="https://media-exp1.licdn.com/dms/image/C4D16AQGBnDChHc4Axg/profile-displaybackgroundimage-shrink_200_800/0/1655618270950?e=1661385600&v=beta&t=El9kvcmyRbGR5OXoH86ICTfjIMqXqOHTtL8uyX6tB5k" align = "middle">
+<img src="https://media-exp1.licdn.com/dms/image/C4D16AQGBnDChHc4Axg/profile-displaybackgroundimage-shrink_200_800/0/1655618270950?e=1661385600&v=beta&t=El9kvcmyRbGR5OXoH86ICTfjIMqXqOHTtL8uyX6tB5k" align = "center">
 
 ---
 ### Passionate Programmer 🌈🧑‍💻 | Machine Learning Enthusiast 🦿 🧠 | Android Development 📲 | IEEE GHRCEM Co-Chair 🧑‍💼 🔍 | Learning Spanish 🌍
