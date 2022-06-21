@@ -2,8 +2,7 @@
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=rudrakshkarpe" alt="rudrakshkarpe" /> </p> 
 
 <!-- <img src="https://i.imgur.com/hLwUjJU.png"> -->
-<img src="https://imgur.com/a/K1T4K0a" align = "center">
-
+<img src="https://i.imgur.com/qQ1AqlK.png)" align = "center">
 ---
 ### Passionate Programmer 🌈🧑‍💻 | Machine Learning Enthusiast 🦿 🧠 | Android Development 📲 | IEEE GHRCEM Co-Chair 🧑‍💼 🔍 | Learning Spanish 🌍
 ---
