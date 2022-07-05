@@ -7,7 +7,7 @@
 
 ---
 <!-- <img src="https://i.imgur.com/hLwUjJU.png"> -->
-<img src="https://s3.us-west-2.amazonaws.com/secure.notion-static.com/9dcf363c-06b3-4b39-9111-da237e6835e4/LinkedIn_Banner_New.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220705%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220705T031108Z&X-Amz-Expires=86400&X-Amz-Signature=b39165a7cf3d187d35ce70fd21b02708478daa4da0319ddf46df876917996ef0&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22LinkedIn%2520Banner%2520New.png%22&x-id=GetObject" align = "center">
+<img src="https://s3.us-west-2.amazonaws.com/secure.notion-static.com/b36023d4-784c-411c-8139-ae8be2910bf5/GitHub_Banner.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220705%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220705T034056Z&X-Amz-Expires=86400&X-Amz-Signature=1b734ff2f5e089d77cdd7f9b846d5125fa4efe12e412b7555f886bc8dc76fb42&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22GitHub%2520Banner.gif%22&x-id=GetObject" align = "center">
 <!-- ![LinkedIn Banner New.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/9dcf363c-06b3-4b39-9111-da237e6835e4/LinkedIn_Banner_New.png) -->
 
 
