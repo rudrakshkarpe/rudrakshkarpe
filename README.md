@@ -36,9 +36,9 @@
 | ------------| ------------- |
 
 
-### ✍️ Random Dev Quotes and Profile Summary
+<!-- ### ✍️ Random Dev Quotes and Profile Summary
 | ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=vue) | <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rudrakshkarpe&theme=vue" align = "left"/> |
-| ---- | ---- |
+| ---- | ---- | -->
 
 
 [![Rudraksh's github activity graph](https://activity-graph.herokuapp.com/graph?username=rudrakshkarpe&theme=react-dark	)](https://github.com/ashutosh00710/github-readme-activity-graph)
