@@ -2,8 +2,8 @@
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=rudrakshkarpe" alt="rudrakshkarpe" /> </p> 
 
 <!-- <img src="https://i.imgur.com/hLwUjJU.png"> -->
-<!-- <img src="https://www.notion.so/Test-4c099cfc704549cca0a1802c8a8e9729#94b485cf31e54ace98cc69642c5a0d50" align = "center"> -->
-![LinkedIn Banner New.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/9dcf363c-06b3-4b39-9111-da237e6835e4/LinkedIn_Banner_New.png)
+<img src="https://s3.us-west-2.amazonaws.com/secure.notion-static.com/9dcf363c-06b3-4b39-9111-da237e6835e4/LinkedIn_Banner_New.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220705%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220705T031108Z&X-Amz-Expires=86400&X-Amz-Signature=b39165a7cf3d187d35ce70fd21b02708478daa4da0319ddf46df876917996ef0&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22LinkedIn%2520Banner%2520New.png%22&x-id=GetObject" align = "center">
+<!-- ![LinkedIn Banner New.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/9dcf363c-06b3-4b39-9111-da237e6835e4/LinkedIn_Banner_New.png) -->
 
 ---
 ### Passionate Programmer 🌈🧑‍💻 | Machine Learning Enthusiast 🦿 🧠 | Android Development 📲 | IEEE GHRCEM Co-Chair 🧑‍💼 🔍 | Learning Spanish 🌍
