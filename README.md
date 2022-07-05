@@ -10,16 +10,12 @@
 ---
 ### 📞 Contact:
 
-| 📧 **Email:** rudraksh.karpe@gmail.com, rudraksh.karpe.cs@ghrcem.raisoni.net | 🌐 **Portfolio**: https://www.rudrakshkarpe.me/ |
-| --------- | ----- |
-
-
-👔 **LinkedIn:** [https://www.linkedin.com/in/rudrakshkarpe](https://www.linkedin.com/in/rudrakshkarpe)
-
-🕊️ **Twitter:** https://twitter.com/rudrakshkarpe
-
-☁️ **Qwicklabs:** [Google Cloud Qwicklabs Profile](https://www.cloudskillsboost.google/public_profiles/1252898e-1747-48fb-a418-300179eab8d5) 
-
+| 📧 **Email:** | rudraksh.karpe@gmail.com  rudraksh.karpe.cs@ghrcem.raisoni.net | 
+| 🌐 **Portfolio**: | https://www.rudrakshkarpe.me/ |
+| 👔 **LinkedIn:** | [https://www.linkedin.com/in/rudrakshkarpe](https://www.linkedin.com/in/rudrakshkarpe) |
+| 🕊️ **Twitter:** | [https://www.rudrakshkarpe.me/](https://twitter.com/rudrakshkarpe) |
+|☁️ **Qwicklabs:** | [Google Cloud Qwicklabs Profile](https://www.cloudskillsboost.google/public_profiles/1252898e-1747-48fb-a418-300179eab8d5) |
+|:------ | :----: |
 
 ---
 
