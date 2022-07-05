@@ -1,7 +1,7 @@
 
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=rudrakshkarpe" alt="rudrakshkarpe" /> </p> 
 
----
+<!-- ---
 
 ### Passionate Programmer 🌈🧑‍💻 | Machine Learning Enthusiast 🦿 🧠 | Android Development 📲 | IEEE GHRCEM Co-Chair 🧑‍💼 🔍 | Learning Spanish 🌍
 
@@ -49,4 +49,4 @@
 
  
 
-  
+   -->
