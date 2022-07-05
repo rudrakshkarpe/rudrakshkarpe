@@ -37,7 +37,7 @@
 
 
 ### ✍️Random Dev Quote
-| ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=vue) | <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iampawan&theme=vue" align = "left"/> |
+| ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=vue) | <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rudrakshkarpe&theme=vue" align = "left"/> |
 | ---- | ---- |
 
 
