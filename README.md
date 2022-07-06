@@ -12,7 +12,9 @@
 <!-- <img src="https://s3.us-west-2.amazonaws.com/secure.notion-static.com/c9c4c440-fe9d-4a48-a2e7-c058aaefb6ea/LinkedIn__GitHub_Banner__%282%29.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220705%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220705T181924Z&X-Amz-Expires=86400&X-Amz-Signature=abbc647955c027b3eef0376f81bee85acdd3b0ae79909c2a87a3e5b07d37e7b5&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22LinkedIn%2520%252B%2520GitHub%2520Banner%2520%2520%282%29.gif%22&x-id=GetObject" align = "center"> -->
 
 <!-- New tech stack with updated skills -->
-<img src="https://s3.us-west-2.amazonaws.com/secure.notion-static.com/6ff24bf2-39e6-4eda-b6d6-117f2c108b7d/LinkedIn__GitHub_Banner__%283%29.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220706%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220706T172241Z&X-Amz-Expires=86400&X-Amz-Signature=aa3ec5a5635534e78e1139acae22c855d1972257ea9c519b8d3cad2156a1e5d4&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22LinkedIn%2520%252B%2520GitHub%2520Banner%2520%2520%283%29.gif%22&x-id=GetObject" align = "center">
+
+<img src="https://s3.us-west-2.amazonaws.com/secure.notion-static.com/c50b1d69-8402-448f-82ad-d955d4c4edbc/LinkedIn__GitHub_Banner__%284%29.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220706%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220706T172811Z&X-Amz-Expires=86400&X-Amz-Signature=40d1c881144d7e723f13a2d8d08a44528b44f8a9d31cb765591f151b54bd468f&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22LinkedIn%2520%252B%2520GitHub%2520Banner%2520%2520%284%29.gif%22&x-id=GetObject" align = "center">
+
 <!-- ![LinkedIn Banner New.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/9dcf363c-06b3-4b39-9111-da237e6835e4/LinkedIn_Banner_New.png) -->
 
 
