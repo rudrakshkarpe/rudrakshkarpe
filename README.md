@@ -28,7 +28,7 @@
 |☁️ **Qwicklabs:** | [Google Cloud Qwicklabs Profile](https://www.cloudskillsboost.google/public_profiles/1252898e-1747-48fb-a418-300179eab8d5) | -->
 
 
----
+<!-- --- -->
 
 <!-- ### **📜 Certificates:**
 
@@ -53,8 +53,6 @@
 **_Last updated: 20/06/2020_**
 
 **_[@rudrakshkarpe](https://www.github.com/rudrakshkarpe)_**
-
-
 
   -->
 
