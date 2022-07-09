@@ -45,7 +45,7 @@
 
 <!-- Test section -->
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rudrakshkarpe&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rudrakshkarpe&theme=highcontrast)](https://git.io/streak-stats)
 
 <!-- ### ✍️ Random Dev Quotes and Profile Summary
 | ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=vue) | <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rudrakshkarpe&theme=vue" align = "left"/> |
