@@ -42,7 +42,7 @@
 | <img src="https://github-readme-stats.vercel.app/api?username=rudrakshkarpe&&show_icons=true&count_private=true&theme=github_dark">|<img src="https://github-readme-streak-stats.herokuapp.com/?user=rudrakshkarpe&theme=blueberry_duo"/> |
 | ------------| ------------- | 
 
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rudrakshkarpe&show_icons=true&theme=radical)
 <!-- ### ✍️ Random Dev Quotes and Profile Summary
 | ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=vue) | <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rudrakshkarpe&theme=vue" align = "left"/> |
 | ---- | ---- | -->
