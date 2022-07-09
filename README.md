@@ -44,10 +44,10 @@
 
 
 <!-- Test section -->
-| ![Rudraksh's GitHub stats](https://github-readme-stats.vercel.app/api?username=rudrakshkarpe&theme=chartreuse-dark&show_icons=true) | ![Rudraksh's GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=rudrakshkarpe&theme=blueberry_duo) |
+| ![Rudraksh's GitHub stats](https://github-readme-stats.vercel.app/api?username=rudrakshkarpe&theme=chartreuse-dark&show_icons=true) | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rudrakshkarpe&theme=highcontrast)](https://git.io/streak-stats)  |
 | ------------| ------------- |  
 
-<!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rudrakshkarpe&theme=highcontrast)](https://git.io/streak-stats) -->
+<!-- -->
 
 <!-- ### ✍️ Random Dev Quotes and Profile Summary
 | ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=vue) | <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rudrakshkarpe&theme=vue" align = "left"/> |
