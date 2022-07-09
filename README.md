@@ -38,9 +38,9 @@
 - [Object-Oriented Data Structures in C++](https://www.coursera.org/account/accomplishments/certificate/N3PAJYYSWQJP) | **Coursera** | **University of Illinois at Urbana-Champaign** [March 2021] -->
 
 ###  📈 GitHub Stats
-
+<!-- 
 | <img src="https://github-readme-stats.vercel.app/api?username=rudrakshkarpe&&show_icons=true&count_private=true&theme=github_dark">|<img src="https://github-readme-streak-stats.herokuapp.com/?user=rudrakshkarpe&theme=blueberry_duo"/> |
-| ------------| ------------- |
+| ------------| ------------- | -->
 
 
 <!-- ### ✍️ Random Dev Quotes and Profile Summary
