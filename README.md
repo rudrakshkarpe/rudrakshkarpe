@@ -13,7 +13,7 @@
 
 <!-- New tech stack with updated skills -->
 
-[ <img src="https://s3.us-west-2.amazonaws.com/secure.notion-static.com/c50b1d69-8402-448f-82ad-d955d4c4edbc/LinkedIn__GitHub_Banner__%284%29.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220802%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220802T015809Z&X-Amz-Expires=86400&X-Amz-Signature=f83add274aee4d460c2d3f4e41e2cb4f916a7f846831e0cfbb8c1adb077e1aaa&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22LinkedIn%2520%252B%2520GitHub%2520Banner%2520%2520%284%29.gif%22&x-id=GetObject" align = "center"> ](https://github.com/rudrakshkarpe)
+[ <img src="https://s3.us-west-2.amazonaws.com/secure.notion-static.com/c50b1d69-8402-448f-82ad-d955d4c4edbc/LinkedIn__GitHub_Banner__%284%29.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220820%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220820T052703Z&X-Amz-Expires=86400&X-Amz-Signature=d52bb9cc8f1523daf249e48d84c8f008ec06ebfc169e5e4120e5f15c0e5d224a&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22LinkedIn%2520%252B%2520GitHub%2520Banner%2520%2520%284%29.gif%22&x-id=GetObject" align = "center"> ](https://github.com/rudrakshkarpe)
 
 <!-- ![LinkedIn Banner New.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/9dcf363c-06b3-4b39-9111-da237e6835e4/LinkedIn_Banner_New.png) -->
 
