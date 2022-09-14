@@ -55,7 +55,7 @@
 | ---- | ---- | -->
 
 
- [![Rudraksh's github activity graph](https://activity-graph.herokuapp.com/graph?username=rudrakshkarpe&theme=react-dark	)](https://github.com/ashutosh00710/github-readme-activity-graph)
+ [![Rudraksh's github activity graph](https://activity-graph.herokuapp.com/graph?username=rudrakshkarpe&theme=react-dark	)](http://github.com/rudrakshkarpe)
 
 **_Last updated: 26/08/2022_**
 
