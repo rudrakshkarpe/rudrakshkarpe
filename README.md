@@ -57,7 +57,7 @@
 
  [![Rudraksh's github activity graph](https://activity-graph.herokuapp.com/graph?username=rudrakshkarpe&theme=react-dark	)](http://github.com/rudrakshkarpe)
 
-**_Last updated: 26/08/2022_**
+**_Last updated: 14/09/2022_**
 
 <!-- **_[@rudrakshkarpe](https://www.github.com/rudrakshkarpe)_** -->
 
