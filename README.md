@@ -43,7 +43,7 @@
 
 <!-- | <img src="https://github-readme-stats.vercel.app/api?username=rudrakshkarpe&&show_icons=true&count_private=true&theme=github_dark"> | <img src="https://github-readme-streak-stats.herokuapp.com/?user=rudrakshkarpe&theme=blueberry_duo"/> |
 | --- | ---- | -->
-|[![Rudraksh's github activity graph](https://activity-graph.herokuapp.com/graph?username=rudrakshkarpe&theme=react-dark	)](http://github.com/rudrakshkarpe)| <img src="https://github-readme-streak-stats.herokuapp.com/?user=rudrakshkarpe&theme=blueberry_duo"/> |
+|![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=vue)| <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rudrakshkarpe&theme=vue" align = "left"/>| <img src="https://github-readme-streak-stats.herokuapp.com/?user=rudrakshkarpe&theme=blueberry_duo"/> |
 | --- | ---- |
 
 
@@ -58,7 +58,7 @@
 | ---- | ---- | -->
 
 
- <!-- [![Rudraksh's github activity graph](https://activity-graph.herokuapp.com/graph?username=rudrakshkarpe&theme=react-dark	)](http://github.com/rudrakshkarpe) -->
+ [![Rudraksh's github activity graph](https://activity-graph.herokuapp.com/graph?username=rudrakshkarpe&theme=react-dark	)](http://github.com/rudrakshkarpe)
 
 **_Last updated: 14/09/2022_**
 
