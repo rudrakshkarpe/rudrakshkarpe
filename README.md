@@ -1,11 +1,10 @@
 
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=rudrakshkarpe" alt="rudrakshkarpe" /> </p> 
 
-<!-- ---
 
-### Passionate Programmer 🌈🧑‍💻 | Machine Learning Enthusiast 🦿 🧠 | Android Development 📲 | IEEE GHRCEM Co-Chair 🧑‍💼 🔍 | Learning Spanish 🌍
+### Passionate Programmer 🌈🧑‍💻 | Machine Learning Enthusiast 🦿 🧠 | Android Development 📲 | Chair IEEE GHRCEM  🧑‍💼 🔍 | Learning Spanish 🌍
 
----
+<!-- --- -->
 <!-- <img src="https://i.imgur.com/hLwUjJU.png"> -->
 
 <!-- old tech stack without node + sql + tenserflow + react -->
@@ -41,11 +40,12 @@
 
 ###  📈 GitHub Stats
 
-<!-- | <img src="https://github-readme-stats.vercel.app/api?username=rudrakshkarpe&&show_icons=true&count_private=true&theme=github_dark"> | <img src="https://github-readme-streak-stats.herokuapp.com/?user=rudrakshkarpe&theme=blueberry_duo"/> |
-| --- | ---- | -->
-|<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rudrakshkarpe&theme=vue" align = "left"/> | <img src="https://github-readme-streak-stats.herokuapp.com/?user=rudrakshkarpe&theme=blueberry_duo"/> |
+| <img src="https://github-readme-stats.vercel.app/api?username=rudrakshkarpe&&show_icons=true&count_private=true&theme=github_dark"> | <img src="https://github-readme-streak-stats.herokuapp.com/?user=rudrakshkarpe&theme=blueberry_duo"/> |
 | --- | ---- |
 
+<!-- |<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rudrakshkarpe&theme=vue" align = "left"/> | <img src="https://github-readme-streak-stats.herokuapp.com/?user=rudrakshkarpe&theme=blueberry_duo"/> |
+| --- | ---- |
+ -->
 
 <!-- Test section -->
 <!-- | [![Rudraksh's GitHub stats](https://github-readme-stats.vercel.app/api?username=rudrakshkarpe&theme=github_dark&show_icons=true)](https://github.com/rudrakshkarpe) | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rudrakshkarpe&theme=highcontrast)](https://github.com/rudrakshkarpe)  |
@@ -60,7 +60,7 @@
 
  [![Rudraksh's github activity graph](https://activity-graph.herokuapp.com/graph?username=rudrakshkarpe&theme=react-dark	)](http://github.com/rudrakshkarpe)
 
-**_Last updated: 14/09/2022_**
+**_Last updated: 15/10/2022_**
 
 <!-- **_[@rudrakshkarpe](https://www.github.com/rudrakshkarpe)_** -->
 
