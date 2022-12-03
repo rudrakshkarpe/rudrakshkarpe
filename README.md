@@ -13,7 +13,7 @@
 <!-- New tech stack with updated skills -->
 
 
-[ <img src="https://i.imgur.com/M2KgYG3.gif" align = "center"> ](https://github.com/rudrakshkarpe)
+<!-- [ <img src="https://i.imgur.com/M2KgYG3.gif" align = "center"> ](https://github.com/rudrakshkarpe) -->
 
 
 <!-- ![LinkedIn Banner New.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/9dcf363c-06b3-4b39-9111-da237e6835e4/LinkedIn_Banner_New.png) -->
