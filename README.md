@@ -2,7 +2,7 @@
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=rudrakshkarpe" alt="rudrakshkarpe" /> </p> 
 
 
-### Tenacious Programmer 🌈🧑‍💻 | Machine Learning Enthusiast 🦿 🧠 | Android Development 📲 |Exploring Open Source Universe 🌌| Chair IEEE GHRCEM  🧑‍💼 🔍 |  Learning Spanish 🌍 
+## Tenacious Programmer 🧑‍💻 | Obsessed with Open source 🌌| Chair @IEEE GHRCEM 🧑‍💼 | Learning Spanish 🌍 
 
 <!-- --- -->
 <!-- <img src="https://i.imgur.com/hLwUjJU.png"> -->
