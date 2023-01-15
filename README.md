@@ -58,7 +58,7 @@
 | ---- | ---- | -->
 
 
- [![Rudraksh's github activity graph](https://activity-graph.herokuapp.com/graph?username=rudrakshkarpe&theme=react-dark	)](http://github.com/rudrakshkarpe)
+<!--  [![Rudraksh's github activity graph](https://activity-graph.herokuapp.com/graph?username=rudrakshkarpe&theme=react-dark	)](http://github.com/rudrakshkarpe) -->
 
 
 [![@krudrakshkarpe's Holopin board](https://holopin.me/rudrakshkarpe)](https://holopin.io/@rudrakshkarpe)
