@@ -1,8 +1,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rudrakshkarpe" alt="rudrakshkarpe" /> </p> 
 
+<!-- ![Matrix-rudrakshkarpe](src/Matrix-rudraksh.gif) -->
 
-![image](https://user-images.githubusercontent.com/78851635/224494429-f98d3a13-ff14-4467-a3f4-d5adc5280602.png)
+![GitHub Background](https://user-images.githubusercontent.com/78851635/224494429-f98d3a13-ff14-4467-a3f4-d5adc5280602.png)
 
 ## About me:
 ### Hi there! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="20px">  I'm a firm believer in the power of open source and thrilled to be part of the vibrant community here on GitHub. Let's collaborate 🤝 and build something amazing together! 💻🚀 
