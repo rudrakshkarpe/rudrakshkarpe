@@ -24,14 +24,13 @@
 
 <details>
 <summary> 🔗 Connect with me: </summary>
-
-🌐 Portfolio: www.rudrakshakrpe.me
-
-📧 Mail: rudraksh.karpe@gmail.com
-
-👥 LinkedIn: https://www.linkedin.com/in/rudrakshkarpe
-
-🐦 Twitter: https://twitter.com/rudrakshkarpe
+ 
+| platform | Address |
+| ---- | -------|
+| 🌐 Portfolio:| www.rudrakshakrpe.me |
+| 📧 Mail: | rudraksh.karpe@gmail.com |
+|👥 LinkedIn: | https://www.linkedin.com/in/rudrakshkarpe |
+| 🐦 Twitter:| https://twitter.com/rudrakshkarpe |
 </details>
 
 
