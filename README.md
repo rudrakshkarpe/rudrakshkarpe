@@ -6,7 +6,7 @@
 ![GitHub Background](https://user-images.githubusercontent.com/78851635/224494429-f98d3a13-ff14-4467-a3f4-d5adc5280602.png)
 
 
-# Hi there! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px"> 
+# Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px"> Nice to meet you!
 
 <details>
 <summary> 🧑‍💻 Work Experience: </summary>
