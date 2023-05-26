@@ -8,6 +8,10 @@
 
 # Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px"> Nice to meet you!
 
+[![Twitter Badge](https://img.shields.io/badge/-rudrakshkarpe-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://www.linkedin.com/in/rudrakshkarpe)](https://www.twitter.com/rudrakshkarpe/)
+[![Gmail Badge](https://img.shields.io/badge/-rudraksh.karpe@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rudraksh.karpe@gmail.com)](mailto:rudraksh.karpe@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-rudrakshkarpe-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kirtanchandak/)](https://www.linkedin.com/in/rudrakshkarpe)
+
 <!-- <details>
 <summary> 🧑‍💻 Work Experience: </summary>
 
