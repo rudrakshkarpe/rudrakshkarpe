@@ -8,12 +8,13 @@
 
 # Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px"> Nice to meet you!
 
-<details>
+<!-- <details>
 <summary> 🧑‍💻 Work Experience: </summary>
 
  💻 Season of KDE 2023 Mentee | 🎓 Chair at IEEE GHRCEM Student Branch
-</details>
+</details> -->
 <!-- 
+
 ## 🛠️ Tech Stack
 
 <p align="center">
