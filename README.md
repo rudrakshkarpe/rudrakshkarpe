@@ -3,10 +3,12 @@
 
 <!-- ![Matrix-rudrakshkarpe](src/Matrix-rudraksh.gif) -->
 
-![GitHub Background](https://user-images.githubusercontent.com/78851635/224494429-f98d3a13-ff14-4467-a3f4-d5adc5280602.png)
+<!-- ![GitHub Background](https://user-images.githubusercontent.com/78851635/224494429-f98d3a13-ff14-4467-a3f4-d5adc5280602.png) -->
+![GitHub Background](src/Matrix-rudraksh.gif)
 
 
-# Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px"> Nice to meet you!
+
+<!--- # Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px"> Nice to meet you! -->
 
 
  
