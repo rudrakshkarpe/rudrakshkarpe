@@ -43,7 +43,7 @@
 <div align="center">
   <table>
     <tr>
-      <th>platform</th>
+      <th>Platform</th>
       <th>Address</th>
     </tr>
     <tr>
