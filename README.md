@@ -1,5 +1,5 @@
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rudrakshkarpe" alt="rudrakshkarpe" /> </p> 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rudrakshkarpe&color=brightgreen" alt="rudrakshkarpe" /> </p> 
 
 <!-- ![Matrix-rudrakshkarpe](src/Matrix-rudraksh.gif) -->
 
