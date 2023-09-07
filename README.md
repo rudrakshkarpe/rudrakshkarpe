@@ -18,6 +18,13 @@
 
 
 
+<!--Holopin-board-->
+<div align="center">
+    <a href="https://www.holopin.io/@fyka"><img height="190" src="https://holopin.io/api/user/board?user=rudrakshkarpe"></a>
+</div>
+<!--Holopin-board ends-->
+
+
  
 <!-- <details>
 <summary> 🧑‍💻 Work Experience: </summary>
