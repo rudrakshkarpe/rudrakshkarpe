@@ -1,54 +1,20 @@
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rudrakshkarpe&color=brightgreen" alt="rudrakshkarpe" /> </p> 
 
-<!-- ![Matrix-rudrakshkarpe](src/Matrix-rudraksh.gif) -->
-
-<!-- ![GitHub Background](https://user-images.githubusercontent.com/78851635/224494429-f98d3a13-ff14-4467-a3f4-d5adc5280602.png) -->
 ![GitHub Background](src/Matrix-rudraksh.gif)
 
-
-
-<!--- # Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px"> Nice to meet you! -->
-
-
- 
 [![Twitter Badge](https://img.shields.io/badge/-rudrakshkarpe-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://www.linkedin.com/in/rudrakshkarpe)](https://www.twitter.com/rudrakshkarpe/)
 [![Gmail Badge](https://img.shields.io/badge/-rudraksh.karpe@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rudraksh.karpe@gmail.com)](mailto:rudraksh.karpe@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-rudrakshkarpe-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kirtanchandak/)](https://www.linkedin.com/in/rudrakshkarpe)
-
 
 
 <!--Holopin-board-->
 <div align="center">
     <a href="https://www.holopin.io/@fyka"><img height="190" src="https://holopin.io/api/user/board?user=rudrakshkarpe"></a>
 </div>
-<!--Holopin-board ends-->
-
-
- 
-<!-- <details>
-<summary> 🧑‍💻 Work Experience: </summary>
-
- 💻 Season of KDE 2023 Mentee | 🎓 Chair at IEEE GHRCEM Student Branch
-</details> -->
-<!-- 
-
-## 🛠️ Tech Stack
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,c,cpp,html,css,javascript,flask,flutter,mysql,mongodb,gcp,azure,docker,kubernetes,linux,vscode,androidstudio,neovim,git,markdown,github,gitlab,githubactions,vercel")
-</p> -->
-
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=rudrakshkarpe&theme=github-dark&hide_border=true&hide_total_contributions=true&hide_longest_streak=true)](https://git.io/streak-stats" alt="Rudraksh's Github Stats">
 </p>
-
-<!--
-| GitHub Stats | GitHub Streak |
-| ------------ | ------------- |
-| ![Rudraksh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rudrakshkarpe&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40) | [![GitHub Streak](https://streak-stats.demolab.com?user=rudrakshkarpe&theme=github-dark&hide_border=true&hide_total_contributions=true&hide_longest_streak=true)](https://git.io/streak-stats) |
--->
 
 
 <details>
@@ -80,7 +46,3 @@
 </div>
 
 </details>
-
-
-
-
