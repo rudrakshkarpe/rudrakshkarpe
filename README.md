@@ -33,15 +33,15 @@
     </tr>
     <tr>
       <td>📧 Mail:</td>
-      <td>rudraksh.karpe@gmail.com</td>
+      <td> <a href = "mailto:rudraksh.karpe@gmail.com" >rudraksh.karpe@gmail.com</a></td>
     </tr>
     <tr>
       <td>👥 LinkedIn:</td>
-      <td>https://www.linkedin.com/in/rudrakshkarpe</td>
+      <td><a href= "https://www.linkedin.com/in/rudrakshkarpe"> linkedin.com/in/rudrakshkarpe</a></td>
     </tr>
     <tr>
       <td>🐦 Twitter:</td>
-      <td>https://twitter.com/rudrakshkarpe</td>
+      <td><a href= "https://twitter.com/rudrakshkarpe"> twitter.com/rudrakshkarpe</a></td>
     </tr>
   </table>
 </div>
