@@ -12,10 +12,11 @@
     <a href="https://www.holopin.io/@fyka"><img height="190" src="https://holopin.io/api/user/board?user=rudrakshkarpe"></a>
 </div>
 
+<!--
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=rudrakshkarpe&theme=github-dark&hide_border=true&hide_total_contributions=true&hide_longest_streak=true)](https://git.io/streak-stats" alt="Rudraksh's Github Stats">
 </p>
-
+-->
 
 <details>
 <summary> 🔗 Connect with me: </summary>
