@@ -1,4 +1,4 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rudrakshkarpe&color=brightgreen" alt="rudrakshkarpe" /> </p> 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rudrakshkarpe&color=blue" alt="rudrakshkarpe" /> </p> 
 
 ![GitHub Background](src/Matrix-rudraksh.gif)
 
