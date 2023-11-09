@@ -40,7 +40,7 @@
 
 <!--Holopin-board-->
 <div align="center">
-    <a href="https://www.holopin.io/@rudrakshkarpe"><img height="250" src="https://holopin.io/api/user/board?user=rudrakshkarpe"></a>
+    <a href="https://www.holopin.io/@rudrakshkarpe"><img height="215" src="https://holopin.io/api/user/board?user=rudrakshkarpe"></a>
 </div>
 
 <!--
@@ -49,7 +49,9 @@
 </p>
 -->
 
+<details>
+<summary>View profile contributions in 3D!👀</summary>
 
-
-<!-- profile 3d contributor view -->
+ <!-- profile 3d contributor view -->
 <img height="600" src="/profile-3d-contrib/profile-night-rainbow.svg" />
+</details>
