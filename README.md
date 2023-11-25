@@ -3,7 +3,7 @@
 ![GitHub Background](src/Matrix-rudraksh.gif)
 
 <details>
-<summary> 🔗 Hey there! 👋 Let's connect on : </summary>
+<summary> Hey there! 👋 Let's connect on: </summary>
  
 <div align="center">
   <table>
@@ -37,12 +37,15 @@
 [![Gmail Badge](https://img.shields.io/badge/-rudraksh.karpe@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rudraksh.karpe@gmail.com)](mailto:rudraksh.karpe@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-rudrakshkarpe-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kirtanchandak/)](https://www.linkedin.com/in/rudrakshkarpe)
 -->
-
+<details>
+ <summary>Holopin achivements 💫</summary>
+ 
 <!--Holopin-board-->
 <div align="center">
     <a href="https://www.holopin.io/@rudrakshkarpe"><img height="215" src="https://holopin.io/api/user/board?user=rudrakshkarpe"></a>
 </div>
-
+ 
+</details>
 <!--
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=rudrakshkarpe&theme=github-dark&hide_border=true&hide_total_contributions=true&hide_longest_streak=true)](https://git.io/streak-stats" alt="Rudraksh's Github Stats">
@@ -50,7 +53,7 @@
 -->
 
 <details>
-<summary>View profile contributions in 3D!👀</summary>
+<summary>View profile contributions in 3D 👀</summary>
 
  <!-- profile 3d contributor view -->
 <img height="600" src="/profile-3d-contrib/profile-night-rainbow.svg" />
