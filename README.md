@@ -58,3 +58,5 @@
  <!-- profile 3d contributor view -->
 <img height="600" src="/profile-3d-contrib/profile-night-rainbow.svg" />
 </details>
+
+<img height="120" alt="Thanks for visiting me" width="100%" src="https://github.com/rudrakshkarpe/rudrakshkarpe/blob/master/src/message.svg" />
