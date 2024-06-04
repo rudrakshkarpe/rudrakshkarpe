@@ -3,7 +3,7 @@
 <!--
 ![GitHub Background](src/Matrix-rudraksh.gif)
 -->
-![profile-image-art](https://github.com/rudrakshkarpe/rudrakshkarpe/assets/78851635/4bb0c75b-a290-41b9-8130-774a4b4da660)
+<!--- ![profile-image-art](https://github.com/rudrakshkarpe/rudrakshkarpe/assets/78851635/4bb0c75b-a290-41b9-8130-774a4b4da660) --->
 
 <details>
 <summary> Hey there! 👋 Let's connect on: </summary>
