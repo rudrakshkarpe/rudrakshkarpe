@@ -35,17 +35,19 @@
 </div>
  
 </details>
-<!--
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=rudrakshkarpe&theme=github-dark&hide_border=true&hide_total_contributions=true&hide_longest_streak=true)](https://git.io/streak-stats" alt="Rudraksh's Github Stats">
-</p>
--->
+
 
 <details>
-<summary>View profile contributions in 3D 👀</summary>
+<summary>View my profile contributions in 3D 👀</summary>
 
  <!-- profile 3d contributor view -->
 <img height="600" src="/profile-3d-contrib/profile-night-rainbow.svg" />
+
+<!--- streak meter --->
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=rudrakshkarpe&theme=github-dark&hide_border=true&hide_total_contributions=true&hide_longest_streak=true)](https://git.io/streak-stats" alt="Rudraksh's Github Stats">
+</p>
+
 </details>
 
-<img height="120" alt="Thanks for visiting me" width="100%" src="https://github.com/rudrakshkarpe/rudrakshkarpe/blob/master/src/message.svg" />
+<img height="150" alt="Thanks for visiting me" width="100%" src="https://github.com/rudrakshkarpe/rudrakshkarpe/blob/master/src/message.svg" />
