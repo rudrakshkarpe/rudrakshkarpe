@@ -7,31 +7,17 @@
 
 <details>
 <summary> Hey there! 👋 Let's connect on: </summary>
- 
 <div align="center">
-  <table>
-    <tr>
-      <th>Platform</th>
-      <th>Address</th>
-    </tr>
-    <tr>
-      <td>🌐 Portfolio:</td>
-      <td>www.rudrakshkarpe.netlify.me</td>
-    </tr>
-    <tr>
-      <td>📧 Mail:</td>
-      <td> <a href = "mailto:rudraksh.karpe@gmail.com" >rudraksh.karpe@gmail.com</a></td>
-    </tr>
-    <tr>
-      <td>👥 LinkedIn:</td>
-      <td><a href= "https://www.linkedin.com/in/rudrakshkarpe"> linkedin.com/in/rudrakshkarpe</a></td>
-    </tr>
-    <tr>
-      <td>🐦 Twitter:</td>
-      <td><a href= "https://twitter.com/rudrakshkarpe"> twitter.com/rudrakshkarpe</a></td>
-    </tr>
-  </table>
+
+| Platform        | Address                                                                 |
+|-----------------|-------------------------------------------------------------------------|
+| 🌐 Portfolio:   | [www.rudrakshkarpe.netlify.app](https://www.rudrakshkarpe.netlify.app) [pretty old 🚧] |
+| 📧 Mail:        | [rudraksh.karpe@gmail.com](mailto:rudraksh.karpe@gmail.com)             |
+| 👥 LinkedIn:    | [linkedin.com/in/rudrakshkarpe](https://www.linkedin.com/in/rudrakshkarpe) |
+| 🐦 Twitter:     | [twitter.com/rudrakshkarpe](https://twitter.com/rudrakshkarpe)          |
+
 </div>
+
 
 </details>
 
