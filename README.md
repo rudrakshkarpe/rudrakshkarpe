@@ -50,4 +50,7 @@
 
 </details>
 
+
+<!----
 <img height="150" alt="Thanks for visiting me" width="100%" src="https://github.com/rudrakshkarpe/rudrakshkarpe/blob/master/src/message.svg" />
+--->
