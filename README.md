@@ -8,7 +8,7 @@
 
 | Platform        | Address                                                                 |
 |-----------------|-------------------------------------------------------------------------|
-| 🌐 Portfolio:   | [www.rudrakshkarpe.com](https://www.rudrakshkarpe.com) |
+| 🌐 Portfolio:   | [www.rudrakshkarpe.com](https://rudrakshkarpe.com/) |
 | 📧 Mail:        | [rudraksh.karpe@gmail.com](mailto:rudraksh.karpe@gmail.com)             |
 | 👥 LinkedIn:    | [linkedin.com/in/rudrakshkarpe](https://www.linkedin.com/in/rudrakshkarpe) |
 | 𝕏 Twitter:     | [twitter.com/rudrakshkarpe](https://twitter.com/rudrakshkarpe)          |
